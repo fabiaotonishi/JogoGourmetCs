@@ -1,0 +1,16 @@
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.exe
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.deps.json
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.runtimeconfig.json
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.dll
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\bin\Debug\net6.0-windows\JogoGourmet.pdb
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.Jogo.resources
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.csproj.GenerateResource.cache
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.AssemblyInfoInputs.cache
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.AssemblyInfo.cs
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.csproj.CoreCompileInputs.cache
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.dll
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\refint\JogoGourmet.dll
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.pdb
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\JogoGourmet.genruntimeconfig.cache
+D:\Arquivos Projetos\Seletivos\Objective\JogoGourmetCS\JogoGourmet\JogoGourmet\obj\Debug\net6.0-windows\ref\JogoGourmet.dll
